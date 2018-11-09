@@ -1,2 +1,16 @@
 /* Stylesheet */
 
+.container-fluid.blocOne{
+    background-color: grey;
+    height: 100vh;
+}
+
+.container-fluid.blocTwo {
+    background-color: red;
+    height: 100vh;
+}
+
+.container-fluid.blocThree {
+    background-color: green;
+    height: 100vh;
+}

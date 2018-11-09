@@ -6,11 +6,21 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap/bootstrap.css">
     <script type="text/javascript" src="css/bootsrap/bootstrap.css"></script>
+
+    <!-- Personnal CSS -->
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-<?php
-    echo 'Hello world!';
-?>
+<div class="container-fluid blocOne">
+</div>
+
+<div class="container-fluid blocTwo">
+</div>
+
+<div class="container-fluid blocThree">
+</div>
+
+
 </body>
 </html>
